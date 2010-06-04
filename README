@@ -1,0 +1,9 @@
+About
+=====
+
+This repo contains a .bst file which, when used with LaTeX and BiBtEx, will output references in the University of Gloucestershire's Post Graduate format (for the school of Business). This format is loosely based on APA but as far as I can see it's fairly different. 
+
+Maturity
+========
+
+I'm using this for my own MSc Diss and have only so far tested it as working using this. There may still be inconsistencies with the Uni's guide; YMMV.
